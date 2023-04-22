@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/83830083/202877800-36f3f492-1d81-4be9-
 
 # Important
 This encryption method can be easily brute forced given the limited shifts possible(26).
-feel free to reach out if you came across any errors , this project was done for educational purposes only. 
+feel free to reach out if you came across any errors, this project was done for educational purposes only. 
 
 
 
